@@ -5,8 +5,8 @@
     <description>InfoSite</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Dec 2016 19:39:31 +0500</pubDate>
-    <lastBuildDate>Tue, 13 Dec 2016 19:39:31 +0500</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2016 19:47:41 +0500</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2016 19:47:41 +0500</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -70,7 +70,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;[http://gersa.online/files/ConFigurator.exe] (http://gersa.online/files/ConFigurator.exe)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://gersa.online/files/ConFigurator.exe&quot;&gt;http://gersa.online/files/ConFigurator.exe&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
